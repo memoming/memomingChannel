@@ -1,14 +1,4 @@
-﻿[# Youtube 메모밍채널 강의자료
-----------------------
-
-### ***데이터분석을위한 python***
-https://www.youtube.com/playlist?list=PL-QFFQeuiKKsvRLFeOgu594EmqdM-9ZBI
-
-
-### ***프로그램을 만들며 배우는 python***
-https://www.youtube.com/playlist?list=PL-QFFQeuiKKsmRly4a4jdO2AYhmg8DvTy
-
-](## Youtube 메모밍채널 Github  **([ 채널 Home ](https://www.youtube.com/channel/UCd2xYYwI7aVUCxtBHsVmnTw))**
+﻿## Youtube 메모밍채널 Github  **([ 채널 Home ](https://www.youtube.com/channel/UCd2xYYwI7aVUCxtBHsVmnTw))**
 
 
 ### :tv: 편성표
@@ -32,4 +22,4 @@ https://www.youtube.com/playlist?list=PL-QFFQeuiKKsmRly4a4jdO2AYhmg8DvTy
 
 
 ### :wave: Contact
-* #### :e-mail: memoming@naver.com)
+* #### :e-mail: memoming@naver.com
