@@ -26,4 +26,4 @@
 
 
 ### :wave: Contact
-* #### :e-mail: memoming@naver.com
+* #### :e-mail: memoming.dev@gmail.com
